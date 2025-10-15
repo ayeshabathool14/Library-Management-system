@@ -84,7 +84,7 @@ The **Power BI report (`Library project.pbix`)** connects to the SQL dataset to 
 1. Import the SQL file into **MySQL Workbench** or any SQL client.
 2. Execute the script to create all tables and insert data.
 3. Open the **Power BI (.pbix)** file and connect it to your local database.
-4. Refresh visuals to explore the analytical dashboard.
+4. Create visual analytical dashboard.
 
 ---
 
